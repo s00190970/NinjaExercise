@@ -43,7 +43,7 @@ namespace NinjaDomain.DataModel.Migrations
                         {
                             new NinjaEquipment { Name = "Comona XS", Id = 3, Type = EquipmentType.Outwear}
                         },
-                        Name = "Ninja Fred", ServedInOniwaban=false
+                        Name = "Ninja Fred", ServedInOniwaban=false 
                     }
                 }
 
